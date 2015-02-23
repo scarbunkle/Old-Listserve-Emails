@@ -1,0 +1,48 @@
+Tl;Dr: Tom Levine devises a way to keep the Squid from sending you a copy of your own email.  Gabe is not happy--he + RA Lauren wanted to avoid this.
+All emails sent 11/30/2010.
+
+Tom Levine to Squid:
+> Squidserve-l used to send me copies of emails that I sent it. This got
+> me erroneously excited about having received new emails, which led
+> invariably to disappointment. But that has all changed! I sent an
+> email to squidserve-l-request@cornell.edu
+> with the body:
+>   set norepro
+> 
+> Or if you really like this feature, you can send an email to
+> risleyhall-l-request@cornell.edu
+> with the body:
+>   set repro
+> 
+> Considering that I wanted to adjust this, I figure other people wanted it too.
+> 
+> More information here
+> http://www2.cit.cornell.edu/computer/elist/lyris/user-custom.html#copies
+> 
+> Tom
+
+Webmaster Gabe to Squid:
+> found it.
+> Please don't send policy things out to the building without running it by me first.
+> It's nice that people want to help, but when you don't check in one invariably runs the chance of stepping on someone's toes or getting in the way.
+> Policy things need to come from the webmaster / RHD / staff (maybe) ONLY.
+> This was a policy that Lauren and I agreed on, and we want everyone on repro. Now I need to go set you back to it, and anyone else that changes it because we don't want people on norepro.
+> 
+> Now that the info is out there, my primary way of stopping it is sabotaged.
+> thanks for trying to help.
+> Webmaster
+
+Ben L. to Webmaster Gabe:
+> Just out of curiosity, why is this policy?  What is the reasoning behind
+> wanting every one on repro?  Gabe, I also don't think the sarcasm makes
+> your message more effective when dealing with an option that wasn't
+> patently policy.
+> Sincerely,
+> Ben L.
+
+Webmaster Gabe to Squid, copy of Ben L.'s email included:
+> Ben, (et all just to clarify)
+> I wasn't being sarcastic.
+> I legitimately meant to thank tom for trying to help with the listservs, and I believe we have the same goals. Though as I pointed out with the stepping on toes thing, it ocaisionally doesn't work so hot.
+> Sorry that didn't come across.
+> Webmaster
